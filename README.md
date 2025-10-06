@@ -43,7 +43,7 @@ Creating or changing a label never alters the transaction's imported data and pr
 >
 > a set of **CategoryHistory** with  
 >> a `category_id` : ID  
->> a set of transactions : TransactionInfos  
+>> a set of `transactions` : TransactionInfos  
 
 ---
 
